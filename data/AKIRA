@@ -1,0 +1,18 @@
+{
+    "id": 90853661,
+    "name": "AKIRA",
+    "author": "Eridani",
+    "creators": ["Eridani", "Denni"],
+    "verifier": "Solus",
+    "verification": "https://youtu.be/RHCCZkf4UFM",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Critical",
+            "link": "https://youtu.be/vbLcREs_1YQ?",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
