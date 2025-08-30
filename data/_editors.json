@@ -1,27 +1,22 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "guy",
+        "name": "crit",
+        "link": "https://www.youtube.com/@criticalcocoa7413"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "guy",
+        "name": "kaqs",
+        "link": "https://www.youtube.com/@kaqsUK"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "guy",
+        "name": "zoom",
+        "link": "https://www.youtube.com/@zoomigd"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "sheet",
+        "name": "UTAH List",
+        "link": "https://docs.google.com/spreadsheets/d/1Bek04c3_4qwyX1qy_1riEvBWBUV97SWXa8AEF4No6Ro/edit?usp=sharing"
     }
 ]
