@@ -1,24 +1,24 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
+    "id": 90853661,
+    "name": "Fog",
+    "author": "NotesXD",
     "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verifier": "slayer",
+    "verification": "https://youtu.be/n3dIaFHT-fI",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Critical",
+            "link": "https://youtu.be/NEz0m7gLFEY",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "KaqsUK",
+            "link": "https://youtu.be/619pWM1DxEk?",
             "percent": 100,
-            "hz": 120
+            "hz": 240
         }
     ]
 }
