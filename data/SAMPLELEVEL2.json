@@ -1,12 +1,17 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 79918576,
+    "name": "Jesse Pinkman",
+    "author": "Renn241",
+    "verifier": "Comlayze",
+    "verification": "https://youtu.be/fYcBtp4X8GA",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "KaqsUK",
+            "link": "https://youtu.be/zGO-8RN5YmM?si=p3Ad_jhBkhK4ixNC",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
