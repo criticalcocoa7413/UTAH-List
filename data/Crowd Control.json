@@ -1,0 +1,24 @@
+{
+    "id": 69491632,
+    "name": "Crowd Control",
+    "author": "Deadlox",
+    "creators": ["Deadlox", "Ka1ns", "Endlevel", "End", "ewop", "silver"],
+    "verifier": "kaqsUK",
+    "verification": "https://youtu.be/EgEdCIq5Kn0?si=4zhNo15Dcl2LzvO2",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Zoomi",
+            "link": "https://youtu.be/2lMNF8Pi_2Q?si=ZmGH2SXf5NH5zfw6",
+            "percent": 100,
+            "hz": 360
+        }
+        {
+            "user": "critical",
+            "link": "https://youtu.be/2kDNcpBcXbI?si=8gX1SqRvVLHVm06D",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
