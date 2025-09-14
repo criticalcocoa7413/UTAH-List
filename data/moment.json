@@ -1,0 +1,18 @@
+{
+    "id": 68848817,
+    "name": "moment",
+    "author": "Lexycat",
+    "creators": ["Lexycat", "icedcave", "Stormfly"],
+    "verifier": "critical",
+    "verification": "https://youtu.be/96d7ZKZ7CYQ?si=MH1TKkf1XlYLbTA_",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "kaqsUK",
+            "link": "https://youtu.be/vYl5CT8h4wE?si=JhCsUk89UGZ0-AXv",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
