@@ -3,19 +3,19 @@
     "name": "Fog",
     "author": "Notes",
     "creators": ["notes","slayer","p1xll1"],
-    "verifier": "slayer",
-    "verification": "https://youtu.be/n3dIaFHT-fI",
+    "verifier": "critical",
+    "verification": "https://youtu.be/NEz0m7gLFEY",
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
         {
-            "user": "Critical",
+            "user": "critical",
             "link": "https://youtu.be/NEz0m7gLFEY",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "KaqsUK",
+            "user": "kaqsUK",
             "link": "https://youtu.be/619pWM1DxEk?",
             "percent": 100,
             "hz": 240
