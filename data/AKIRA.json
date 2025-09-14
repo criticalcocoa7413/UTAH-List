@@ -3,7 +3,7 @@
     "name": "AKIRA",
     "author": "Eridani",
     "creators": ["Eridani", "Denni"],
-    "utah verifier": "critical",
+    "verifier": "critical",
     "verification": "https://youtu.be/vbLcREs_1YQ?",
     "percentToQualify": "100",
     "password": "Free Copy",
