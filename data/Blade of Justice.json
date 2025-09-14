@@ -1,0 +1,18 @@
+{
+    "id": 35448603,
+    "name": "Blade of Justice",
+    "author": "Manix648",
+    "creators": ["Manix648", "LazerBlitz", "Panman ('Credit me you fella')"],
+    "verifier": "Zippiks",
+    "verification": "https://youtu.be/ypom5D4ZYmE?si=2K1BdrydNzOMisez",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "critical",
+            "link": "https://youtu.be/3mZ_AS0pTQo?si=zN9lOCjr81vbmVQo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
