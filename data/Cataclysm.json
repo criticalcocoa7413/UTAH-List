@@ -1,0 +1,18 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": ["GgB0y"],
+    "verifier": "critical",
+    "verification": "https://youtu.be/T4NZW1fShXI?si=NFRYCrt8k8ddVTrQ",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "kaqsUK",
+            "link": "https://youtu.be/aJejNzefSq8?si=rQbiYYdA6Fv4GpZB",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
