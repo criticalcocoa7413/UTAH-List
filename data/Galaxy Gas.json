@@ -1,0 +1,18 @@
+{
+    "id": 116401475,
+    "name": "Galaxy Gas",
+    "author": "xSlendy",
+    "creators": ["xSlendy"],
+    "verifier": "kaqsUK",
+    "verification": "https://youtu.be/L9Ttf2vVt70?si=Bq0GXJbRZjJ6qjpu",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "critical",
+            "link": "https://youtu.be/i3ubFYeIVY0?si=UyGgiqURRaTQi4yq",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
