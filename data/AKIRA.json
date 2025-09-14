@@ -1,10 +1,10 @@
 {
-    "id": 88421468
+    "id": 88421468,
     "name": "AKIRA",
     "author": "Eridani",
     "creators": ["Eridani", "Denni"],
-    "verifier": "Solus",
-    "verification": "https://youtu.be/RHCCZkf4UFM",
+    "verifier": "critical",
+    "verification": "https://youtu.be/vbLcREs_1YQ?",
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
