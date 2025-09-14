@@ -1,0 +1,18 @@
+{
+    "id": 30219145,
+    "name": "Hypersonic",
+    "author": "ViPriN",
+    "creators": ["ViPriN", "ZenthicAlpha", "Vlacc", "Serponge", "nasgubb", "Evasium", "Rustam", "Pan", "Etzer", "Dudex", "Manix648"],
+    "verifier": "kaqsUK",
+    "verification": "https://youtu.be/H5ECnLScp0w?si=h2syD7fO_Mmr6JiF",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "critical",
+            "link": "https://youtu.be/c0b2rr-FVBg?si=MvuZAt5Jydrr2qcn",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
