@@ -1,0 +1,18 @@
+{
+    "id": 87033090,
+    "name": "Artificial Climb",
+    "author": "Rynoxious",
+    "creators": ["Rynoxious", "Lin", "AlrexX", "Andhika"],
+    "verifier": "kaqsUK",
+    "verification": "https://youtu.be/NPk4fDcwFP8?si=cVxVyT2Z12uB25AF",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "critical",
+            "link": "https://youtu.be/rqpx8fsnTgo?si=IDsw6zC70SL2bjOx",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
